@@ -131,6 +131,12 @@ _Listado de comandos que podrian ser necesarios_
     composer dump-autoload
     ```
 
+-   Actualizar lang.
+
+    ```
+    php artisan lang:update
+    ```
+
 ## Comandos DB/(SQL)
 
 _Listado de comandos DB_
